@@ -4,6 +4,8 @@ R2D3 Star Wars Chatbot
 
 Welcome to R2D3, your personal Star Wars knowledge assistant! R2D3 is a chatbot designed to answer your questions related to the vast Star Wars universe. Whether you're a seasoned Jedi Master or a curious Padawan, R2D3 is here to help you explore the galaxy far, far away.
 
+## How you can contribute
+- You can see an intents.JSON file in this repostratry you can update that file with related information on star wars or email the data you want to be added or updated in the JSON file on dawood220m@gmail.com
 ## Features
 
 - Ask Anything: R2D3 is equipped with knowledge about characters, planets, events, and much more from the Star Wars saga. Feel free to ask any questions, and R2D3 will do its best to provide accurate answers.
@@ -24,7 +26,9 @@ Welcome to R2D3, your personal Star Wars knowledge assistant! R2D3 is a chatbot 
 
 ## Feedback and Support
 
-If you encounter any issues or have suggestions for improving R2D3, please don't hesitate to reach out on intagram or linkden. Your feedback is valuable and helps us enhance the chatbot for all users.
+If you encounter any issues or have suggestions for improving R2D3, please don't hesitate to reach out on [![Instagram](https://img.shields.io/badge/Instagram-thewoodishere-blue?logo=instagram)](https://www.instagram.com/thewoodishere/) or 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thewood11062004-blue?logo=linkedin)](https://www.linkedin.com/in/thewood11062004/).
+Your feedback is valuable and helps me to enhance the chatbot for all users.
 
 ## Credits
 
