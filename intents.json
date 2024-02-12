@@ -1,0 +1,215 @@
+{"intents": [
+
+    {
+      "tag": "greeting",
+      "patterns": ["Hi there", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day"],
+      "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help you?"],
+      "context": ""
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+      "responses": ["See you!", "Have a nice day!", "Bye! Come back again soon."],
+      "context": ""
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+      "responses": ["My pleasure!", "You're Welcome!"],
+      "context": ""
+    },
+    {
+      "tag": "query",
+      "patterns": ["Who are you", "What are you", "What's your name"],
+      "responses": ["I am adel and I love Star Wars!"],
+      "context": ""
+    },
+    {
+      "tag": "about you",
+      "patterns": ["Who build you", "Who created you", "Who made you"],
+      "responses": ["Dawood created me."],
+      "context": ""
+    },
+    {
+      "tag": "star_wars",
+      "patterns": ["Tell me about Star Wars", "What is Star Wars", "What do you know about Star Wars"],
+      "responses": ["Star Wars is a popular science fiction franchise created by George Lucas."],
+      "context": ""
+    },
+    {
+      "tag": "New_hope",
+      "patterns": ["Explain the plot of Star Wars: A New Hope", "What happens in Star Wars: A New Hope"],
+      "responses": ["Star Wars: A New Hope follows the journey of Luke Skywalker as he joins the Rebel Alliance to fight against the evil Galactic Empire."],
+      "context": ""
+    },
+    {
+      "tag": "darth_vader",
+      "patterns": ["Who is Darth Vader?", "Tell me about Darth Vader", "What do you know about Darth Vader"],
+      "responses": ["Darth Vader, originally known as Anakin Skywalker, is a Sith Lord and one of the main antagonists in the Star Wars saga."],
+      "context": ""
+    },
+    {
+      "tag": "force_in_star_wars",
+      "patterns": ["Define the Force in Star Wars", "What is the Force in Star Wars", "Explain the concept of the Force"],
+      "responses": ["The Force is a mystical energy field in the Star Wars universe that gives Jedi their power."],
+      "context": ""
+    },
+    {
+      "tag": "light_saber",
+      "patterns": ["Describe lightsabers in Star Wars", "What are lightsabers", "Tell me about lightsabers"],
+      "responses": ["Lightsabers are elegant weapons used by Jedi and Sith in combat. They consist of a plasma blade powered by kyber crystals."],
+      "context": ""
+    },
+    {
+      "tag": "yoda",
+      "patterns": ["Who is Yoda in Star Wars?", "Tell me about Yoda", "What do you know about Yoda"],
+      "responses": ["Yoda is a wise and powerful Jedi Master who trains Luke Skywalker in the ways of the Force."],
+      "context": ""
+    },
+    {
+      "tag": "death_star",
+      "patterns": ["What is the Death Star in Star Wars?", "Tell me about the Death Star", "What do you know about the Death Star"],
+      "responses": ["The Death Star is a massive space station built by the Galactic Empire with the capability to destroy entire planets."],
+      "context": ""
+    },
+    {
+      "tag": "sith",
+      "patterns": ["Explain the concept of Sith in Star Wars", "What are Sith in Star Wars", "What do you know about the Sith"],
+      "responses": ["The Sith are practitioners of the dark side of the Force and serve as the primary antagonists in the Star Wars saga."],
+      "context": ""
+    },
+    {
+      "tag": "droid",
+      "patterns": ["Define droids in Star Wars", "What are droids in Star Wars", "Tell me about droids"],
+      "responses": ["Droids are robotic characters in the Star Wars universe, ranging from protocol droids like C-3PO to astromech droids like R2-D2."],
+      "context": ""
+    },
+    {
+      "tag": "Han_solo",
+      "patterns": ["Who is Han Solo in Star Wars?", "Tell me about Han Solo", "What do you know about Han Solo"],
+      "responses": ["Han Solo is a skilled pilot and smuggler who becomes a hero of the Rebel Alliance."],
+      "context": ""
+    },
+    {
+      "tag": "galatic_empire",
+      "patterns": ["Explain the Galactic Empire in Star Wars", "What is the Galactic Empire in Star Wars", "What do you know about the Galactic Empire"],
+      "responses": ["The Galactic Empire is a totalitarian regime led by Emperor Palpatine and Darth Vader, seeking to dominate the galaxy through fear and oppression."],
+      "context": ""
+    },
+    {
+      "tag": "luke_skywalker",
+      "patterns": ["Who is Luke Skywalker?", "Tell me about Luke Skywalker", "What do you know about Luke Skywalker"],
+      "responses": ["Luke Skywalker is a key character in the Star Wars saga. He is the son of Anakin Skywalker and Padmé Amidala, and he becomes a Jedi Knight who plays a crucial role in the fight against the Galactic Empire."],
+      "context": ""
+    },
+    {
+      "tag": "leia_organa",
+      "patterns": ["Who is Princess Leia?", "Tell me about Princess Leia", "What do you know about Princess Leia"],
+      "responses": ["Princess Leia, also known as Leia Organa, is a prominent character in the Star Wars saga. She is a member of the Rebel Alliance and a key figure in the fight against the Galactic Empire. She is also the twin sister of Luke Skywalker."],
+      "context": ""
+    },
+    {
+      "tag": "obi_wan_kenobi",
+      "patterns": ["Who is Obi-Wan Kenobi?", "Tell me about Obi-Wan Kenobi", "What do you know about Obi-Wan Kenobi"],
+      "responses": ["Obi-Wan Kenobi is a legendary Jedi Master in the Star Wars universe. He is known for his wisdom, skill in combat, and mentorship of Anakin Skywalker and later Luke Skywalker. He plays a pivotal role in the events of the prequel and original trilogies."],
+      "context": ""
+    },
+    {
+      "tag": "han_and_leia",
+      "patterns": ["What is the relationship between Han Solo and Princess Leia?", "Tell me about Han Solo and Princess Leia's relationship", "How do Han Solo and Princess Leia know each other?"],
+      "responses": ["Han Solo and Princess Leia have a romantic relationship that develops over the course of the Star Wars saga. They meet as members of the Rebel Alliance and eventually fall in love despite their initial differences. Their relationship is a central storyline in the original trilogy."],
+      "context": ""
+    },
+    {
+      "tag": "empire_strikes_back",
+      "patterns": ["Explain the plot of Star Wars: The Empire Strikes Back", "What happens in Star Wars: The Empire Strikes Back", "Summarize Star Wars: The Empire Strikes Back"],
+      "responses": ["Star Wars: The Empire Strikes Back is the second film in the original trilogy. It follows the Rebel Alliance as they are pursued by the Galactic Empire after their defeat at the Battle of Yavin. The film features the iconic reveal of Darth Vader as Luke Skywalker's father and ends on a cliffhanger with Han Solo being frozen in carbonite."],
+      "context": ""
+    },
+    {
+      "tag": "anakin_skywalker",
+      "patterns": ["Who is Anakin Skywalker?", "Tell me about Anakin Skywalker", "What do you know about Anakin Skywalker"],
+      "responses": ["Anakin Skywalker, also known as Darth Vader, is a central character in the Star Wars saga. He starts as a Jedi Knight but falls to the dark side of the Force, becoming a Sith Lord and serving as one of the main antagonists. His story is depicted in the prequel trilogy."],
+      "context": ""
+    },
+    {
+      "tag": "padme_amidala",
+      "patterns": ["Who is Padmé Amidala?", "Tell me about Padmé Amidala", "What do you know about Padmé Amidala"],
+      "responses": ["Padmé Amidala is a prominent character in the Star Wars saga. She is the Queen and later Senator of Naboo, as well as the secret wife of Anakin Skywalker. Padmé is known for her intelligence, courage, and dedication to the cause of peace and justice."],
+      "context": ""
+    },
+    {
+      "tag": "darth_sidious",
+      "patterns": ["Who is Darth Sidious?", "Tell me about Darth Sidious", "What do you know about Darth Sidious"],
+      "responses": ["Darth Sidious, also known as Emperor Palpatine, is the primary antagonist in the Star Wars saga. He is a Sith Lord who manipulates the events of the galaxy to rise to power as the Emperor of the Galactic Empire. Sidious is a master of the dark side of the Force and seeks to rule the galaxy with absolute authority."],
+      "context": ""
+    },
+    {
+      "tag": "star_destroyer",
+      "patterns": ["What is a Star Destroyer?", "Tell me about Star Destroyers", "What do you know about Star Destroyers"],
+      "responses": ["A Star Destroyer is a massive capital ship used by the Galactic Empire in the Star Wars universe. It serves as a symbol of Imperial power and is equipped with advanced weaponry and technology. Star Destroyers are often deployed to enforce Imperial rule and project military strength across the galaxy."],
+      "context": ""
+    },
+    {
+      "tag": "x-wing",
+      "patterns": ["What is an X-wing?", "Tell me about X-wingstarfighters", "What do you know about X-wing spacecraft"],
+      "responses": ["An X-wing is a versatile starfighter used by the Rebel Alliance in the Star Wars saga. It is known for its distinctive X-shaped wings and is equipped with powerful laser cannons and proton torpedoes. X-wings play a key role in many battles against the Galactic Empire, including the assault on the Death Star."],
+      "context": ""
+    },
+    {
+      "tag": "tie_fighter",
+      "patterns": ["What is a TIE fighter?", "Tell me about TIE fighters", "What do you know about TIE spacecraft"],
+      "responses": ["A TIE fighter is a starfighter used by the Galactic Empire in the Star Wars saga. It is characterized by its twin ion engines and distinctive spherical cockpit. TIE fighters are fast and maneuverable but lack shields and hyperdrive capability. They are deployed in large numbers to overwhelm enemy forces."],
+      "context": ""
+    },
+    {
+      "tag": "millennium_falcon",
+      "patterns": ["What is the Millennium Falcon?", "Tell me about the Millennium Falcon", "What do you know about Han Solo's ship"],
+      "responses": ["The Millennium Falcon is a modified YT-1300 light freighter used by Han Solo and Chewbacca in the Star Wars saga. It is known for its speed, maneuverability, and iconic appearance. The Millennium Falcon plays a central role in many key events, including the Battle of Yavin and the Battle of Endor."],
+      "context": ""
+    },
+    {
+      "tag": "darth_maul",
+      "patterns": ["Who is Darth Maul?", "Tell me about Darth Maul", "What do you know about Darth Maul"],
+      "responses": ["Darth Maul is a Sith Lord and antagonist in the Star Wars saga. He is known for his red and black facial tattoos, double-bladed lightsaber, and acrobatic fighting style. Darth Maul serves as a formidable opponent to the Jedi and plays a significant role in the events of the prequel trilogy."],
+      "context": ""
+    },
+    {
+      "tag": "yavin",
+      "patterns": ["What is the Battle of Yavin?", "Tell me about the Battle of Yavin", "What do you know about the Rebel victory at Yavin"],
+      "responses": ["The Battle of Yavin is a pivotal conflict in the Star Wars saga. It takes place in Episode IV: A New Hope and marks the Rebel Alliance's first major victory against the Galactic Empire. During the battle, Luke Skywalker destroys the Death Star by exploiting a weakness in its thermal exhaust port, leading to a decisive Rebel triumph."],
+      "context": ""
+    },
+    {
+      "tag": "endor",
+      "patterns": ["What is the Battle of Endor?", "Tell me about the Battle of Endor", "What do you know about the Rebel victory at Endor"],
+      "responses": ["The Battle of Endor is a crucial engagement in the Star Wars saga. It occurs in Episode VI: Return of the Jedi and represents the final confrontation between the Rebel Alliance and the Galactic Empire. The Rebels launch an assault on the forest moon of Endor to destroy the shield generator protecting the second Death Star, ultimately leading."],
+      "context": ""
+    },
+    {
+      "tag": "george_lucas",
+      "patterns": ["Who is George Lucas?", "Tell me about George Lucas", "What do you know about George Lucas"],
+      "responses": ["George Lucas is an American filmmaker and entrepreneur best known for creating the Star Wars franchise. He was born on May 14, 1944, in Modesto, California. Lucas wrote and directed the original Star Wars film, Episode IV: A New Hope, which premiered in 1977. He also served as the executive producer for the entire Star Wars saga and is credited with shaping the vision and mythology of the galaxy far, far away."],
+      "context": ""
+    },
+    {
+      "tag": "lucasfilm",
+      "patterns": ["What is Lucasfilm?", "Tell me about Lucasfilm", "What do you know about George Lucas's company"],
+      "responses": ["Lucasfilm Ltd. is an American film and television production company founded by George Lucas in 1971. It is best known for producing the Star Wars and Indiana Jones franchises. Lucasfilm has been responsible for creating groundbreaking visual effects and pioneering filmmaking techniques. In addition to its film and television projects, Lucasfilm also oversees subsidiary divisions, including Industrial Light & Magic (ILM) and Skywalker Sound."],
+      "context": ""
+    },
+    {
+      "tag": "force_users",
+      "patterns": ["What are Force users?", "Tell me about individuals with Force abilities", "Who can wield the Force?"],
+      "responses": ["Force users are individuals who possess sensitivity to the Force, a mystical energy field in the Star Wars universe. These individuals can develop and utilize Force powers for various purposes, such as telekinesis, precognition, and mind control. Force users are typically trained as Jedi Knights or Sith Lords, but other Force-sensitive beings exist as well."],
+      "context": ""
+
+
+    },
+    {
+      "tag": "star_wars_tv_series",
+      "patterns": ["Are there any Star Wars TV series?", "Tell me about Star Wars television shows", "What Star Wars series are available to watch?"],
+      "responses": ["Yes, there are several Star Wars TV series that expand upon the lore and characters of the franchise. Some notable examples include 'The Mandalorian,' 'Star Wars: The Clone Wars,' 'Star Wars Rebels,' and 'The Book of Boba Fett.' These series explore different aspects of the Star Wars galaxy and offer new stories set within the universe."],
+      "context": ""
+    }
+]}
