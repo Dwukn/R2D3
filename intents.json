@@ -19,9 +19,15 @@
       "context": ""
     },
     {
+      "tag":"question",
+      "patterns": ["How are you", "whatsup"],
+      "responses":["I am fine thank you,How was you day was ohh.. by the way thanks for asking"],
+      "context":""
+    },
+    {
       "tag": "query",
       "patterns": ["Who are you", "What are you", "What's your name"],
-      "responses": ["I am adel and I love Star Wars!"],
+      "responses": ["I am R2D3 a Droid that will help you in your journey across the Galaxy"],
       "context": ""
     },
     {
